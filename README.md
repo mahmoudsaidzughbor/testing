@@ -1,3 +1,3 @@
 # testing
 test code of game
-https://mahmoudsaidzughbor.github.io/testing/
+https://mahmoudsaidzughbor.github.io/testing
